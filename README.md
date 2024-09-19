@@ -1,9 +1,8 @@
 # NewsApp
-NewsApp is a Kotlin-based Android application that provides users with the latest news from various sources. The app is built using architecture MVVM and the NewsAPI.org service to fetch news articles in real-time. It features categories like top headlines, technology news, and sports news, with a sleek and user-friendly interface.
+NewsApp is a Kotlin-based Android application that provides users with the latest news from various sources. The app is built using architecture MVVM and the NewsAPI.org service to fetch news articles in real-time. It features like top headlines, technology news, and sports news, with a sleek and user-friendly interface.
 
 ## Features
 - Top Headlines: Get the latest headlines from around the world.
-- Category Filtering: Browse news by categories such as Technology, Sports, Health, etc.
 - Search Functionality: Search for news articles by keywords.
 - Article Details: Tap on any article to view the full content with details.
 
